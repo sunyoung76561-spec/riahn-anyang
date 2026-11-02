@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://riahn-anyang.kr/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/designers/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/designers/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/designers/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/designers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/designers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/designers/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/gallery/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/gallery/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/faq/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/faq/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/location/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/location/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/location/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/location/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/location/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/location/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/cut/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/cut/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/cut/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/cut/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/cut/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/cut/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/perm/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/perm/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/perm/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/perm/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/perm/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/perm/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/color/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/color/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/color/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/color/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/color/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/color/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/clinic/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/clinic/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/recruit/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/recruit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/recruit/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/en/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/en/designers/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/designers/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/designers/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/designers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/designers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/designers/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/en/gallery/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/gallery/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/en/faq/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/faq/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/en/location/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/location/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/location/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/location/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/location/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/location/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/en/cut/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/cut/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/cut/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/cut/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/cut/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/cut/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/en/perm/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/perm/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/perm/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/perm/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/perm/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/perm/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/en/color/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/color/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/color/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/color/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/color/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/color/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/en/clinic/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/clinic/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/ja/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/ja/designers/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/designers/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/designers/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/designers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/designers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/designers/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/ja/gallery/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/gallery/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/ja/faq/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/faq/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/ja/location/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/location/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/location/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/location/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/location/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/location/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/ja/cut/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/cut/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/cut/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/cut/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/cut/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/cut/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/ja/perm/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/perm/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/perm/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/perm/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/perm/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/perm/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/ja/color/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/color/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/color/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/color/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/color/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/color/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/ja/clinic/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/clinic/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/zh/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/zh/designers/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/designers/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/designers/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/designers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/designers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/designers/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/zh/gallery/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/gallery/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/zh/faq/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/faq/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/zh/location/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/location/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/location/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/location/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/location/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/location/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/zh/cut/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/cut/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/cut/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/cut/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/cut/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/cut/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/zh/perm/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/perm/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/perm/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/perm/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/perm/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/perm/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/zh/color/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/color/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/color/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/color/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/color/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/color/"/>
+  </url>
+  <url>
+    <loc>https://riahn-anyang.kr/zh/clinic/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-anyang.kr/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-anyang.kr/en/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-anyang.kr/ja/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-anyang.kr/zh/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-anyang.kr/clinic/"/>
+  </url>
+</urlset>
